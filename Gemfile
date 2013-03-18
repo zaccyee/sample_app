@@ -9,6 +9,7 @@ gem 'annotate'
 gem 'rspec-rails'
 gem 'capybara'
 gem 'bcrypt-ruby'
+gem 'faker'
 
 # Gems used only for assets and not required
 # in production environments by default.
